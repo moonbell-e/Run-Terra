@@ -8,4 +8,5 @@ This is a game for the subject "Software Product Management" at my university. 3
 классический раннер с тремя дорожками, основной особенностью продукта
 является наличие сражений с боссами, у которых будет свой ИИ.
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/71431806/219980174-744840a3-4b5d-4779-9fc7-50d3ec3b90b9.gif)
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/71431806/219980448-11b616f0-aae7-4cba-b2cf-2b515ae9ee41.gif)
